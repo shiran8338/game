@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/game/static/css/main.453aac34.chunk.css",
+    "main.js": "/game/static/js/main.08142d3a.chunk.js",
+    "main.js.map": "/game/static/js/main.08142d3a.chunk.js.map",
+    "runtime-main.js": "/game/static/js/runtime-main.5d28d792.js",
+    "runtime-main.js.map": "/game/static/js/runtime-main.5d28d792.js.map",
+    "static/js/2.973b9176.chunk.js": "/game/static/js/2.973b9176.chunk.js",
+    "static/js/2.973b9176.chunk.js.map": "/game/static/js/2.973b9176.chunk.js.map",
+    "index.html": "/game/index.html",
+    "static/css/main.453aac34.chunk.css.map": "/game/static/css/main.453aac34.chunk.css.map",
+    "static/js/2.973b9176.chunk.js.LICENSE.txt": "/game/static/js/2.973b9176.chunk.js.LICENSE.txt",
+    "static/media/battle.b3e1d06a.svg": "/game/static/media/battle.b3e1d06a.svg",
+    "static/media/computer.5113bcbb.svg": "/game/static/media/computer.5113bcbb.svg",
+    "static/media/icon-paper.8b57a6b1.svg": "/game/static/media/icon-paper.8b57a6b1.svg",
+    "static/media/icon-rock.476e90a9.svg": "/game/static/media/icon-rock.476e90a9.svg",
+    "static/media/icon-scissors.3b1a5d7e.svg": "/game/static/media/icon-scissors.3b1a5d7e.svg",
+    "static/media/player.a8a006a3.svg": "/game/static/media/player.a8a006a3.svg",
+    "static/media/red.b3e1d06a.svg": "/game/static/media/red.b3e1d06a.svg",
+    "static/media/reset.6ba4b8b6.svg": "/game/static/media/reset.6ba4b8b6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d28d792.js",
+    "static/js/2.973b9176.chunk.js",
+    "static/css/main.453aac34.chunk.css",
+    "static/js/main.08142d3a.chunk.js"
+  ]
+}
